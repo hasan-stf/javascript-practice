@@ -56,3 +56,5 @@ if (ages > 15) {
 } else {
     console.log("not allowed in mela");
 }
+
+
