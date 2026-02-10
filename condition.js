@@ -8,3 +8,4 @@ console.log(10==='10'); //false
 console.log(10!='10');//false , only value check
 console.log(10!=='10') // true , value and type both check 
 
+//
